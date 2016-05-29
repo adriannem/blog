@@ -1,0 +1,22 @@
+.blog_post {
+  color: darkslateblue;
+  font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+  width: 50%;
+  line-height: 95%;
+}
+
+body {
+  background-color: floralwhite;
+}
+
+aside {
+  width: 400px;
+  float: right;
+  margin-right: 150px;
+  margin-top: 5px;
+  position: relative;
+  font-family: 'Palatino', 'Palatino Linotype', 'Palatino LT STD', 'Book Antiqua', Georgia, serif;
+  color: darkred;
+  font-weight: bolder;
+  font-size: 110%
+}
